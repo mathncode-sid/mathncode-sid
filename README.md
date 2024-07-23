@@ -27,9 +27,9 @@ I am an aspiring Back-End Developer <img src="https://media.giphy.com/media/WUlp
 
 - :telescope: I’m working as a Data Manager and Technology Specialist
   
-- :seedling: Currently learning AI Career Essentials at ALx as well as Python.
+- :seedling: Currently learning  Python.
 
-- :zap: In my free time, I focus on working on my side project.
+- :zap: In my free time, I study and learn Graphic Design Using Canva(I am available for all your Graphic Desig needs, hmu!)
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sidney-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-muriuki-688207285)
 
@@ -53,12 +53,4 @@ I am an aspiring Back-End Developer <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BackendSid22&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackendSid22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Now Playing - Spotify 🎧
-<p>
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31yz6m4wddhreglybmzuahea2tuy&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31yz6m4wddhreglybmzuahea2tuy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
-  </a>
-</p>
 </p>
