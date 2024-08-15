@@ -1,6 +1,3 @@
-<div id ="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150"/>
-</div>
 
 <div id ="badges" align ="center">
   <a href="https://www.linkedin.com/in/sidney-muriuki-688207285/">
@@ -15,21 +12,16 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNucm9xenFtZDA0Y3RmcXI1cnY3eXhieGVud2xmZzZuMWw3aDduaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
 
 ### :man_technologist: About Me :
-I am an aspiring Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Data Manager and Technology Specialist
-  
+- :telescope: I’m working as an intern at KAG Teens Ministry and a student at PLP Academy
+- 
 - :seedling: Currently learning  Python.
-
-- :zap: In my free time, I study and learn Graphic Design Using Canva(I am available for all your Graphic Desig needs, hmu!)
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sidney-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-muriuki-688207285)
 
