@@ -20,7 +20,7 @@
 I am an aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 - :telescope: I’m working as an intern at KAG Teens Ministry and a student at PLP Academy
-- 
+  
 - :seedling: Currently learning  Python.
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sidney-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-muriuki-688207285)
