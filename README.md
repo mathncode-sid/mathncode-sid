@@ -52,3 +52,5 @@ I am a Data Science, AI, and Machine Learning Enthusiast currently interning at 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mathncode-sid&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yz6m4wddhreglybmzuahea2tuy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yz6m4wddhreglybmzuahea2tuy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
