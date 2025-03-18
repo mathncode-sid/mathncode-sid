@@ -19,9 +19,9 @@
 ### :man_technologist: About Me :
 I am a Data Science, AI, and Machine Learning Enthusiast currently interning at Statsspeak, where I explore data-driven solutions and build intelligent systems.
 
-🔹 Background: Pursuing a degree in Mathematics and Computer Science
+🔹 Background: Pursuing a degree in Mathematics and Computer Science.
 
-🔹 Learning: Machine Learning, Deep Learning, Data Analytics, and AI technologies
+🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, and AI technologies
 
 🔹 Building: Data-driven models, AI-powered solutions, and automation tools
 
