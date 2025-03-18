@@ -17,17 +17,23 @@
 
 
 ### :man_technologist: About Me :
-I am a Data Science, AI, and Machine Learning Enthusiast currently interning at Statsspeak, where I explore data-driven solutions and build intelligent systems.
+I am a Data Science, AI, and Machine Learning enthusiast, currently interning at Statsspeak, where I work on data-driven solutions and intelligent systems.
 
 🔹 Background: Pursuing a degree in Mathematics and Computer Science.
 
-🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, and AI technologies
+🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, AI technologies, and Graphic Design.
 
-🔹 Building: Data-driven models, AI-powered solutions, and automation tools
+🔹 Building: Data-driven models, AI-powered solutions, and automation tools.
 
-🔹 Interests: Statistical Modeling, Predictive Analytics, and Algorithm Optimization
+🔹 Interests: Statistical Modeling, Predictive Analytics, Algorithm Optimization, and Software Development.
 
-📚 Always eager to collaborate on innovative projects and share insights on data science!
+📚 Currently Learning:
+
+    AI & ML: Self-taught
+    Data Science: WorldQuant University (in progress)
+    Software Engineering: PLP Academy (in progress)
+
+💡 Always eager to collaborate on innovative projects and share insights on data science, AI, and technology!
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sidney-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-muriuki-688207285)
 
