@@ -42,10 +42,13 @@ I am a Data Science, AI, and Machine Learning enthusiast, currently interning at
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
   
 </div>
 
@@ -55,8 +58,8 @@ I am a Data Science, AI, and Machine Learning enthusiast, currently interning at
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=mathncode-sid&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mathncode-sid&count_private=true&show_icons=true&theme=prussian" width="400">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6m4wddhreglybmzuahea2tuy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6m4wddhreglybmzuahea2tuy&redirect=true)
