@@ -1,64 +1,24 @@
-
-<div id ="badges" align ="center">
-  <a href="https://www.linkedin.com/in/sidney-muriuki-688207285/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/nino_sidney">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    <h1>
-  Hola!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+# 💫 About Me:
+I am a Data Science, AI, and Machine Learning enthusiast, currently interning at Statsspeak, where I work on data-driven solutions and intelligent systems.<br><br>🔹 Background: Pursuing a degree in Mathematics and Computer Science.<br><br>🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, AI technologies, and Graphic Design.<br><br>🔹 Building: Data-driven models, AI-powered solutions, and automation tools.<br><br>🔹 Interests: Statistical Modeling, Predictive Analytics, Algorithm Optimization, and Software Development.<br><br>📚 Currently Learning:<br><br>AI & ML: Self-taught<br>Data Science: WorldQuant University (in progress)<br>Software Engineering: PLP Academy (in progress)<br><br>💡 Always eager to collaborate on innovative projects and share insights on data science, AI, and technology!
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidney-muriuki-688207285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/nino_sidney) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mathncode-sid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mathncode-sid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### :man_technologist: About Me :
-I am a Data Science, AI, and Machine Learning enthusiast, currently interning at Statsspeak, where I work on data-driven solutions and intelligent systems.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mathncode-sid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔹 Background: Pursuing a degree in Mathematics and Computer Science.
-
-🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, AI technologies, and Graphic Design.
-
-🔹 Building: Data-driven models, AI-powered solutions, and automation tools.
-
-🔹 Interests: Statistical Modeling, Predictive Analytics, Algorithm Optimization, and Software Development.
-
-📚 Currently Learning:
-
-    AI & ML: Self-taught
-    Data Science: WorldQuant University (in progress)
-    Software Engineering: PLP Academy (in progress)
-
-💡 Always eager to collaborate on innovative projects and share insights on data science, AI, and technology!
-  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Sidney-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-muriuki-688207285)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mathncode-sid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
-  
-</div>
-
-
-
----
-
-
-### :fire: My Stats :
-<img src="https://github-readme-stats.vercel.app/api?username=mathncode-sid&count_private=true&show_icons=true&theme=prussian" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6m4wddhreglybmzuahea2tuy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yz6m4wddhreglybmzuahea2tuy&redirect=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
