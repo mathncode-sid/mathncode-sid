@@ -22,4 +22,7 @@ I am a Data Science, AI, and Machine Learning enthusiast, currently interning at
 ---
 [![](https://visitcount.itsvg.in/api?id=mathncode-sid&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Badges
+[![An image of @mathncodesid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mathncodesid)](https://holopin.io/@mathncodesid)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
