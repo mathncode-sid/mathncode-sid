@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Data Science, AI, and Machine Learning enthusiast, currently interning at Statsspeak, where I work on data-driven solutions and intelligent systems.<br><br>🔹 Background: Pursuing a degree in Mathematics and Computer Science.<br><br>🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, AI technologies, and Graphic Design.<br><br>🔹 Building: Data-driven models, AI-powered solutions, and automation tools.<br><br>🔹 Interests: Statistical Modeling, Predictive Analytics, Algorithm Optimization, and Software Development.<br><br>📚 Currently Learning:<br><br>AI & ML: Self-taught<br>Data Science: WorldQuant University (in progress)<br>Software Development: PLP Academy (in progress)<br><br>💡 Always eager to collaborate on innovative projects and share insights on data science, AI, and technology!
 
 
