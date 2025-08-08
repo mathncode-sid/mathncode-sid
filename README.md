@@ -1,6 +1,5 @@
 # About Me:
-I am a Data Science, AI, and Machine Learning enthusiast, currently interning at Statsspeak, where I work on data-driven solutions and intelligent systems.<br><br>🔹 Background: Pursuing a degree in Mathematics and Computer Science.<br><br>🔹 Learning: Software Engineering, Machine Learning, Deep Learning, Data Analytics, AI technologies, and Graphic Design.<br><br>🔹 Building: Data-driven models, AI-powered solutions, and automation tools.<br><br> Currently Learning:<br><br>AI & ML: I'm self-learning(freeCodeCamp) <br><br>Software Development: PLP Academy<br><br> Always eager to collaborate on innovative projects and share insights on data science, AI, and technology.
-
+Data Scientist specializing in Artificial Intelligence | Math and CS Student | Python Enthusiast | Exploring Tech, Data & Creative Design
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidney-muriuki-688207285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mathncode_sid) 
