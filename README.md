@@ -1,5 +1,5 @@
 # About Me:
-Data Scientist specializing in Artificial Intelligence | Math and CS Student | Python Enthusiast | Exploring Tech, Data & Creative Design
+Python | Math and CS Student| Exploring Tech, Data & Creative Design
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sidney-muriuki-688207285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mathncode_sid) 
