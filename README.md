@@ -8,16 +8,8 @@ Python | Math and CS Student| Exploring Tech, Data & Creative Design
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mathncode-sid&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mathncode-sid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mathncode-sid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### Badges
-[![An image of @mathncodesid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mathncodesid)](https://holopin.io/@mathncodesid)
 
 ---
 
