@@ -1,19 +1,25 @@
-# About Me:
-Python | Math and CS Student| Exploring Tech, Data & Creative Design
+# Sidney Muriuki
 
+Software Developer & Community Manager | Interested in AI, ML, and Automation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/S0gZbIAlSpiF8Fa98O3KBKp1c7UOO51fDKGztXxNnec/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2Vla3BuZy5jb20v/cG5nL2RldGFpbC84/NzUtODc1MzM2Nl9m/bGFzay1mcmFtZXdv/cmstbG9nby1zdmcu/cG5n" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Experienced in full-stack software development, AI automation, and technical community management. Previously built AI-driven automation systems and hybrid fraud detection platforms.
 
+### Experience
+* **Community Manager Lead (Open Source)** at Salamander Tech Hub
+* **AI Automation Engineer Intern** at Statsspeak Group Ltd.
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Featured Projects
+* **Hybrid GNN Fraud Intelligence System:** Designed a fraud detection platform using Python, PyTorch Geometric, XGBoost, FastAPI, React, Neo4j, and Kafka.
+* **SmartBiz:** Built a business management platform using Django, Python, SQLite, Bootstrap, and JavaScript.
+* **Crop Health & Value Optimization System:** Developed an AI-driven agricultural analytics platform using Python, Streamlit, pandas, NumPy, and Plotly.
+
+### Skills
+* **Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+* **Frameworks & Libraries:** FastAPI, Django, Flask, Streamlit, React, Bootstrap, pandas, NumPy, Matplotlib
+* **AI & Machine Learning:** XGBoost, Graph Neural Networks (GNNs), PyTorch Geometric, NLP, Retrieval-Augmented Generation (RAG), LangChain, FAISS
+* **Infrastructure & Tools:** Google Cloud Platform (GCP), Docker, Kafka, Neo4j, SQLite, Git, GitHub
 
 ---
 
-### Socials
-<p align="left">
-<a href="https://twitter.com/mathncode_sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathncode_sid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/sidney-muriuki-688207285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/sidney-muriuki-688207285/" height="30" width="40" /></a>
-<a href="https://instagram.com/mathncode.sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathncode.sid" height="30" width="40" /></a>
-</p>
+### Contact
+* Email: [sidneybarakamuriukil@gmail.com](mailto:sidneybarakamuriukil@gmail.com)
