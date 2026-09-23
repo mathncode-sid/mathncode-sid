@@ -1,50 +1,59 @@
-## ⚔️ Hail, Traveler. You Stand Before the Forge of **Sidney Muriuki**.
-![muriuki.jpeg](muriuki.jpeg)
-I am no ordinary developer — I am a **code-forged warrior**, trained in the arts of **Software Engineering**, **Artificial Intelligence**, and **Automation**. Where others see data, I see the battlefield. Where others see bugs, I see enemies to be vanquished with clean, relentless logic.
+# Sidney Muriuki
 
-> 🛡️ Discipline is my armor.  
-> ⚔️ Automation is my blade.  
-> 🔥 Community is my phalanx.  
->  
-> Enter my forge. Every system I build is tempered in fire and tested in battle.
+Software Engineer focused on Software Engineering, Artificial Intelligence, and Automation.
 
----
+I enjoy building practical software, automating repetitive processes, and working on systems that solve real-world problems. I also contribute to open-source communities and enjoy helping other developers learn and build.
 
-## 🏛️ The Warrior's Path (Experience)
-* **Community Manager Lead (Open Source)** — Salamander Tech Hub — *Commander of the open-source phalanx*
-* **AI Automation Engineer Intern** — Statsspeak Group Ltd. — *Forger of intelligent machines*
+## Experience
 
----
+* **Network & Infrastructure Intern** — GTBank Kenya
+* **Community Manager Lead (Open Source)** — Salamander Tech Hub
+* **AI Automation Engineer Intern** — Statsspeak Group Ltd.
 
-## 🗡️ Conquests of Note (Featured Projects)
-* **Hybrid GNN Fraud Intelligence System** — A fortress built to hunt deception itself. Forged with Python, PyTorch Geometric, XGBoost, FastAPI, React, Neo4j, and Kafka.
-* **SmartBiz** — A war-camp management platform for businesses, built with Django, Python, SQLite, Bootstrap, and JavaScript.
-* **Crop Health & Value Optimization System** — An oracle for the fields, reading the land's fate through Python, Streamlit, pandas, NumPy, and Plotly.
+## Featured Projects
 
----
+### Hybrid GNN Fraud Intelligence System
 
-## ⚙️ Arsenal of the Forge (Skills)
-* **Tongues Spoken:** Python, JavaScript, TypeScript, SQL, HTML/CSS
-* **Weapons & Shields:** FastAPI, Django, Flask, Streamlit, React, Bootstrap, pandas, NumPy, Matplotlib
-* **Sorceries (AI & ML):** XGBoost, Graph Neural Networks (GNNs), PyTorch Geometric, NLP, Retrieval-Augmented Generation (RAG), LangChain, FAISS
-* **War Camp Infrastructure:** Google Cloud Platform (GCP), Docker, Kafka, Neo4j, SQLite, Git, GitHub
+A fraud detection and intelligence system combining graph-based machine learning with traditional machine learning and real-time data processing.
 
----
+**Technologies:** Python, PyTorch Geometric, XGBoost, FastAPI, React, Neo4j, Kafka
 
-## 📯 Summon the Warrior (Contact)
+### SmartBiz
+
+A business management platform designed to help businesses manage their day-to-day operations.
+
+**Technologies:** Django, Python, SQLite, Bootstrap, JavaScript
+
+### Crop Health & Value Optimization System
+
+A data-driven application for analyzing crop health and supporting agricultural value optimization.
+
+**Technologies:** Python, Streamlit, pandas, NumPy, Plotly
+
+## Skills
+
+**Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+
+**Frameworks & Libraries:** FastAPI, Django, Flask, Streamlit, React, Bootstrap, pandas, NumPy, Matplotlib
+
+**AI & Machine Learning:** XGBoost, Graph Neural Networks, PyTorch Geometric, NLP, Retrieval-Augmented Generation (RAG), LangChain, FAISS
+
+**Infrastructure & Tools:** Google Cloud Platform, Docker, Kafka, Neo4j, SQLite, Git, GitHub
+
+## Open Source & Community
+
+I contribute to open-source projects and community initiatives focused on helping students and developers build practical software skills.
+
+Currently involved with **Salamander Tech Hub**, where I work on community programs, workshops, mentorship, and open-source contribution.
+
+## Contact
+
 * Email: [sidneybarakamuriukil@gmail.com](mailto:sidneybarakamuriukil@gmail.com)
+* GitHub: [@mathncode-sid](https://github.com/mathncode-sid)
+* LinkedIn: [Sidney Muriuki](https://www.linkedin.com/in/sidney-muriuki-688207285/)
 
----
+## GitHub Stats
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=mathncode-sid&&style=flat-square" align="right" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=mathncode-sid\&theme=dark)
 
-## 📊 Chronicles of Battle (GitHub Stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mathncode-sid&theme=dark)](https://git.io/streak-stats)
-
----
-
-## 🔥 Oracle's Whisper
-_"The blade that is never sharpened grows dull; the code that is never refined grows brittle."_
+> "The code that is never refined grows brittle."
