@@ -44,7 +44,7 @@ A data-driven application for analyzing crop health and supporting agricultural 
 
 I contribute to open-source projects and community initiatives focused on helping students and developers build practical software skills.
 
-Currently involved with **Salamander Tech Hub**, where I work on community programs, workshops, mentorship, and open-source contribution.
+Currently involved with [Salamander Tech Hub](https://github.com/mathncode-sid?tab=overview&org=Salamander-Tech-Hub), where I work on community programs, workshops, mentorship, and open-source contribution.
 
 ## Contact
 
